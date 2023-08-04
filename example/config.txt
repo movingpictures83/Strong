@@ -1,0 +1,2 @@
+Prefix plugins/Strong/example/
+Plugin Strong inputfile table.qza outputfile alpha_diversity.qza
